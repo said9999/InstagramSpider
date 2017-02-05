@@ -1,0 +1,90 @@
+Sun 05 Feb 2017 17:12:59 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/littleblackboots
+Sun 05 Feb 2017 17:13:00 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:13:12 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/littleblackboots with 0 imgs
+Sun 05 Feb 2017 17:13:12 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/littleblackboots, usage: 12.622, newin_num: 0
+Sun 05 Feb 2017 17:13:12 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/alealimay
+Sun 05 Feb 2017 17:13:12 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:13:24 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/alealimay with 0 imgs
+Sun 05 Feb 2017 17:13:24 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/alealimay, usage: 11.721, newin_num: 0
+Sun 05 Feb 2017 17:13:24 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/chiaraferragni/
+Sun 05 Feb 2017 17:13:24 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:13:34 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/chiaraferragni/ with 0 imgs
+Sun 05 Feb 2017 17:13:34 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/chiaraferragni/, usage: 10.353, newin_num: 0
+Sun 05 Feb 2017 17:13:34 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/queenhorsfall
+Sun 05 Feb 2017 17:13:34 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:13:47 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/queenhorsfall with 0 imgs
+Sun 05 Feb 2017 17:13:47 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/queenhorsfall, usage: 12.671, newin_num: 0
+Sun 05 Feb 2017 17:13:47 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/yunastyle
+Sun 05 Feb 2017 17:13:47 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:14:00 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/yunastyle with 0 imgs
+Sun 05 Feb 2017 17:14:00 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/yunastyle, usage: 12.834, newin_num: 0
+Sun 05 Feb 2017 17:14:00 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/halopeoplekr
+Sun 05 Feb 2017 17:14:00 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:14:11 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/halopeoplekr with 0 imgs
+Sun 05 Feb 2017 17:14:11 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/halopeoplekr, usage: 11.015, newin_num: 0
+Sun 05 Feb 2017 17:14:11 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/jdinkoreasince2012
+Sun 05 Feb 2017 17:14:11 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:14:23 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/jdinkoreasince2012 with 0 imgs
+Sun 05 Feb 2017 17:14:23 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/jdinkoreasince2012, usage: 12.571, newin_num: 0
+Sun 05 Feb 2017 17:14:23 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/realstreet1
+Sun 05 Feb 2017 17:14:23 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:14:36 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/realstreet1 with 0 imgs
+Sun 05 Feb 2017 17:14:36 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/realstreet1, usage: 12.900, newin_num: 0
+Sun 05 Feb 2017 17:14:36 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/beeswonderland
+Sun 05 Feb 2017 17:14:36 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:14:47 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/beeswonderland with 0 imgs
+Sun 05 Feb 2017 17:14:47 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/beeswonderland, usage: 10.701, newin_num: 0
+Sun 05 Feb 2017 17:14:47 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/daphnemodeandthecity
+Sun 05 Feb 2017 17:14:47 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:14:58 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/daphnemodeandthecity with 0 imgs
+Sun 05 Feb 2017 17:14:58 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/daphnemodeandthecity, usage: 10.981, newin_num: 0
+Sun 05 Feb 2017 17:14:58 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/ashleighdmello
+Sun 05 Feb 2017 17:14:58 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:15:10 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/ashleighdmello with 0 imgs
+Sun 05 Feb 2017 17:15:10 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/ashleighdmello, usage: 11.885, newin_num: 0
+Sun 05 Feb 2017 17:15:10 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/petiteflowerpresents
+Sun 05 Feb 2017 17:15:10 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:15:21 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/petiteflowerpresents with 0 imgs
+Sun 05 Feb 2017 17:15:21 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/petiteflowerpresents, usage: 11.368, newin_num: 0
+Sun 05 Feb 2017 17:15:21 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/wendyslookbook/
+Sun 05 Feb 2017 17:15:21 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:15:34 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/wendyslookbook/ with 0 imgs
+Sun 05 Feb 2017 17:15:34 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/wendyslookbook/, usage: 12.763, newin_num: 0
+Sun 05 Feb 2017 17:15:34 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/thesartorialist/
+Sun 05 Feb 2017 17:15:34 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:15:46 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/thesartorialist/ with 0 imgs
+Sun 05 Feb 2017 17:15:46 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/thesartorialist/, usage: 11.855, newin_num: 0
+Sun 05 Feb 2017 17:15:46 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/ootdmagazine/
+Sun 05 Feb 2017 17:15:46 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:15:58 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/ootdmagazine/ with 0 imgs
+Sun 05 Feb 2017 17:15:58 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/ootdmagazine/, usage: 12.779, newin_num: 0
+Sun 05 Feb 2017 17:15:58 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/solsolstreet/
+Sun 05 Feb 2017 17:15:58 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:16:10 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/solsolstreet/ with 0 imgs
+Sun 05 Feb 2017 17:16:10 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/solsolstreet/, usage: 12.018, newin_num: 0
+Sun 05 Feb 2017 17:16:10 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/asianstreetfashion/
+Sun 05 Feb 2017 17:16:10 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:16:23 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/asianstreetfashion/ with 0 imgs
+Sun 05 Feb 2017 17:16:23 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/asianstreetfashion/, usage: 12.337, newin_num: 0
+Sun 05 Feb 2017 17:16:23 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/majorstreetstyle/
+Sun 05 Feb 2017 17:16:23 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:16:36 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/majorstreetstyle/ with 0 imgs
+Sun 05 Feb 2017 17:16:36 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/majorstreetstyle/, usage: 12.935, newin_num: 0
+Sun 05 Feb 2017 17:16:36 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/ootd.indonesiaa/
+Sun 05 Feb 2017 17:16:36 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:16:47 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/ootd.indonesiaa/ with 0 imgs
+Sun 05 Feb 2017 17:16:47 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/ootd.indonesiaa/, usage: 11.041, newin_num: 0
+Sun 05 Feb 2017 17:16:47 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/streetmag/
+Sun 05 Feb 2017 17:16:47 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:17:01 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/streetmag/ with 0 imgs
+Sun 05 Feb 2017 17:17:01 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/streetmag/, usage: 13.829, newin_num: 0
+Sun 05 Feb 2017 17:17:01 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/street_style_paris/
+Sun 05 Feb 2017 17:17:01 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:17:12 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/street_style_paris/ with 0 imgs
+Sun 05 Feb 2017 17:17:12 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/street_style_paris/, usage: 11.763, newin_num: 0
+Sun 05 Feb 2017 17:17:12 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/tsangtastic
+Sun 05 Feb 2017 17:17:12 INFO spiders_initial_driver.py 18 64957 initial driver
+Sun 05 Feb 2017 17:17:26 INFO spiders_manager.py 28 64957 finish crawl intagram account: https://www.instagram.com/tsangtastic with 0 imgs
+Sun 05 Feb 2017 17:17:26 INFO spiders_manager.py 31 64957 account: https://www.instagram.com/tsangtastic, usage: 13.495, newin_num: 0
+Sun 05 Feb 2017 17:17:26 INFO spiders_manager.py 25 64957 start crawl intagram account: https://www.instagram.com/hapatime
+Sun 05 Feb 2017 17:17:26 INFO spiders_initial_driver.py 18 64957 initial driver

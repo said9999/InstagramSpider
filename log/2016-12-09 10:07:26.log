@@ -1,0 +1,4 @@
+Fri 09 Dec 2016 10:07:26 INFO spiders_manager.py 25 17555 start crawl intagram account: https://www.instagram.com/littleblackboots
+Fri 09 Dec 2016 10:07:26 INFO spiders_initial_driver.py 18 17555 initial driver
+Fri 09 Dec 2016 10:07:35 INFO spiders_click_morebutton.py 28 17555 clicked load more button
+Fri 09 Dec 2016 10:07:35 INFO spiders_scrolldown_page.py 27 17555 start scroll down: targeting -254 imgs in https://www.instagram.com/littleblackboots
